@@ -1,0 +1,2 @@
+The correct sequence of switches: 5 4 0 3
+Cheat Sheet to Switches: Right Click
